@@ -1,21 +1,22 @@
-Hi, I’m Carlos Daniel.
 
-I am passionate about becoming a skilled Python programmer and developing diverse projects to continuously learn and share my ideas with the world.
+Oi, eu sou o Carlos Daniel
 
-Currently, I am pursuing a Bachelor’s degree in Computer Science at Fatec São Paulo, Brazil. I also study Python independently and learn JavaScript as part of my university curriculum.
+Sou apaixonado por me tornar um programador Python habilidoso e desenvolver projetos diversos para aprender continuamente e compartilhar minhas ideias com o mundo.
 
-I have a strong interest in databases, automation, and backend development.
+Atualmente, estou cursando Bacharelado em Ciência da Computação na Fatec São Paulo, Brasil. Também estudo Python de forma independente e aprendo JavaScript como parte da grade curricular da universidade.
 
-I am eager to collaborate on projects with other developers and companies to grow my programming experience and learn from others.
+Tenho um forte interesse em bancos de dados, automação e desenvolvimento backend.
 
-Feel free to reach out to me via email: coltbuull@gmail.com
- or send me a message directly on GitHub.
+Estou ansioso para colaborar em projetos com outros desenvolvedores e empresas para ampliar minha experiência em programação e aprender com outras pessoas.
 
-Pronouns: he/him
+Sinta-se à vontade para entrar em contato comigo por e-mail: **[coltbuull@gmail.com](mailto:coltbuull@gmail.com)**
+ou me enviar uma mensagem diretamente pelo GitHub.
 
-Fun fact: I speak four languages — Portuguese (native), English, French, and Spanish — and I am currently learning German.
+**Curiosidade:** Falo quatro idiomas — português (nativo), inglês, francês e espanhol — e atualmente estou aprendendo alemão.
 
-I love working with technology and constantly challenge myself to grow.
-I have always enjoyed learning languages and facing challenges. Although I studied many human languages, programming languages became my newest passion and motivation.
-Today, I focus on Python and backend development, but through university, I also developed a strong interest in JavaScript, which has become an exciting challenge for me.
-Technology offers endless opportunities, and I am committed to studying and evolving to stay ahead.
+Eu adoro trabalhar com tecnologia e constantemente me desafio para crescer. Sempre gostei de aprender idiomas e enfrentar desafios. Embora eu tenha estudado muitas línguas humanas, as linguagens de programação se tornaram minha nova paixão e motivação.
+Hoje, foco em Python e desenvolvimento backend, mas, através da universidade, também desenvolvi um grande interesse por JavaScript, que se tornou um desafio empolgante para mim.
+
+A tecnologia oferece oportunidades infinitas, e estou comprometido em estudar e evoluir para me manter à frente.
+
+---
