@@ -1,22 +1,79 @@
+<h1 align="center">👋 Oi, eu sou o Carlos Daniel</h1>
 
-Oi, eu sou o Carlos Daniel
+<p align="center">
+  <b>Desenvolvedor Python | Machine Learning | Cibersegurança | Ciência da Computação</b>
+</p>
 
-Sou apaixonado por me tornar um programador Python habilidoso e desenvolver projetos diversos para aprender continuamente e compartilhar minhas ideias com o mundo.
+---
 
-Atualmente, estou cursando Bacharelado em Ciência da Computação na Fatec São Paulo, Brasil. Também estudo Python de forma independente e aprendo JavaScript como parte da grade curricular da universidade.
+## 🚀 Sobre mim  
+Sou apaixonado por tecnologia, programação e aprender continuamente.  
+Atualmente curso **Bacharelado em Ciência da Computação — Fatec São Paulo**, estudo **Python avançado**, desenvolvimento backend, automação, cibersegurança e machine learning.
 
-Tenho um forte interesse em bancos de dados, automação e desenvolvimento backend.
+Também estudo **JavaScript/HTML/CSS**, impulsionado pela universidade e por projetos pessoais.
 
-Estou ansioso para colaborar em projetos com outros desenvolvedores e empresas para ampliar minha experiência em programação e aprender com outras pessoas.
+Gosto de trabalhar em soluções eficientes, seguras e escaláveis — sempre buscando evoluir como desenvolvedor e colaborar com outros profissionais.
 
-Sinta-se à vontade para entrar em contato comigo por e-mail: **[coltbuull@gmail.com](mailto:coltbuull@gmail.com)**
-ou me enviar uma mensagem diretamente pelo GitHub.
+---
 
-**Curiosidade:** Falo quatro idiomas — português (nativo), inglês, francês e espanhol — e atualmente estou aprendendo alemão.
+## 🧠 Tecnologias & Ferramentas
 
-Eu adoro trabalhar com tecnologia e constantemente me desafio para crescer. Sempre gostei de aprender idiomas e enfrentar desafios. Embora eu tenha estudado muitas línguas humanas, as linguagens de programação se tornaram minha nova paixão e motivação.
-Hoje, foco em Python e desenvolvimento backend, mas, através da universidade, também desenvolvi um grande interesse por JavaScript, que se tornou um desafio empolgante para mim.
+### 🐍 **Principal Stack (Forte domínio):**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=Thunderbird&logoColor=white">
+</p>
 
-A tecnologia oferece oportunidades infinitas, e estou comprometido em estudar e evoluir para me manter à frente.
+### 🌐 **Web & Front-end:**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
+### ⚙️ **Outros conhecimentos:**
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+---
+
+## 💼 O que estou buscando
+Estou aberto a colaborar em projetos que envolvam:
+
+✔ Desenvolvimento backend  
+✔ Automação com Python  
+✔ Projetos de machine learning  
+✔ Ferramentas e scripts para cibersegurança  
+✔ Projetos educacionais ou open-source  
+
+Adoro aprender com outros desenvolvedores e trocar experiências!
+
+---
+
+## 📫 Contato
+Sinta-se à vontade para falar comigo:
+
+📧 **E-mail:** [coltbuull@gmail.com](mailto:coltbuull@gmail.com)  
+💬 **GitHub:** Envie uma mensagem pelo próprio perfil
+
+---
+
+## 🌍 Idiomas
+
+- Português (nativo)  
+- Inglês  
+- Francês  
+- Espanhol  
+- 🔄 Aprendendo: Alemão  
+
+---
+
+## ✨ Curiosidade
+Sempre gostei de aprender idiomas — e isso despertou minha paixão por linguagens de programação.  
+Hoje, a tecnologia é minha principal motivação, e estudo todos os dias para evoluir e criar soluções úteis para o mundo.
 
 ---
