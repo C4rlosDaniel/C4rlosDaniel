@@ -57,7 +57,7 @@ Adoro aprender com outros desenvolvedores e trocar experiências!
 ## 📫 Contato
 Sinta-se à vontade para falar comigo:
 
-📧 **E-mail:** [coltbuull@gmail.com](mailto:coltbuull@gmail.com)  
+
 💬 **GitHub:** Envie uma mensagem pelo próprio perfil
 
 ---
