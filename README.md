@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Carlos Alencar</h1>
+<h1 align="center">Oi, eu sou o Carlos Daniel 👋</h1>
 
 <p align="center">
   <b>Analista de Sistemas · Automação de Processos · Sistemas Web</b><br>
@@ -16,7 +16,7 @@
 
 Sou Analista de Sistemas na **My Fly Automação Comercial**, onde desenvolvo, mantenho e evoluo sistemas, automatizo rotinas e integro sistemas para reduzir tarefas manuais.
 
-Antes, no **Clube Pirassununga**, criei soluções que rodam em ambiente real, usando PostgreSQL, Supabase e ferramentas de IA. Minha base vem do suporte técnico e da infraestrutura de TI, o que me dá a visão de quem usa o sistema, não só de quem o constrói.
+Antes, no **Clube Pirassununga**, criei soluções que rodam em ambiente real, usando PostgreSQL, Supabase e ferramentas de IA como **Claude** e **Antigravity**, que uso no dia a dia para acelerar o desenvolvimento. Minha base vem do suporte técnico e da infraestrutura de TI, o que me dá a visão de quem usa o sistema, não só de quem o constrói.
 
 ---
 
@@ -32,6 +32,7 @@ Antes, no **Clube Pirassununga**, criei soluções que rodam em ambiente real, u
 | Projeto | O que é | Tecnologias |
 |---|---|---|
 | [Portfólio](https://portcarlos.vercel.app) | Meu portfólio, com estudos de caso dos projetos | TypeScript · Vercel |
+| [My Fly](https://myfly.vercel.app) | Site institucional da My Fly, empresa de automação comercial e gestão para micro e pequenas empresas, com soluções para food service e o ERP próprio FlyERP | Vercel |
 | [Lume Estamparia](https://modelolanding.vercel.app) | Landing page modelo para estamparia (marca fictícia): catálogo em abas, bastidores e orçamento via WhatsApp, sem backend | HTML · CSS · JavaScript · Vercel |
 
 ---
@@ -45,8 +46,14 @@ Antes, no **Clube Pirassununga**, criei soluções que rodam em ambiente real, u
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Dados e automação**
+**IA aplicada ao desenvolvimento**
 
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Backend, dados e automação**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -57,16 +64,13 @@ Antes, no **Clube Pirassununga**, criei soluções que rodam em ambiente real, u
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Estudando**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ---
 
 ## 🎯 Em foco agora
 
 - Sistemas e automações na My Fly Automação Comercial
-- Automação de processos com n8n e IA aplicada ao desenvolvimento
+- Automação de processos com n8n
+- IA aplicada ao desenvolvimento, com Claude e Antigravity
 - Bacharelado em Ciência da Computação na FATECE (2025 a 2028)
 
 ---
