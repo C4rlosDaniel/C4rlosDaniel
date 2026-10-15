@@ -16,7 +16,7 @@
 
 Sou Analista de Sistemas na **My Fly Automação Comercial**, onde desenvolvo, mantenho e evoluo sistemas, automatizo rotinas e integro sistemas para reduzir tarefas manuais.
 
-Antes, no **Clube Pirassununga**, criei soluções que rodam em ambiente real, usando PostgreSQL, Supabase e ferramentas de IA como **Claude** e **Antigravity**, que uso no dia a dia para acelerar o desenvolvimento. Minha base vem do suporte técnico e da infraestrutura de TI, o que me dá a visão de quem usa o sistema, não só de quem o constrói.
+Antes, no **Clube Pirassununga**, criei soluções que rodam em ambiente real, usando PostgreSQL, Supabase e ferramentas e agentes de IA como **Claude**, **Antigravity** e **OpenCode**, que uso no dia a dia para acelerar o desenvolvimento. Minha base vem do suporte técnico e da infraestrutura de TI, o que me dá a visão de quem usa o sistema, não só de quem o constrói.
 
 ---
 
@@ -33,7 +33,7 @@ Antes, no **Clube Pirassununga**, criei soluções que rodam em ambiente real, u
 |---|---|---|
 | [Portfólio](https://portcarlos.vercel.app) | Meu portfólio, com estudos de caso dos projetos | TypeScript · Vercel |
 | [My Fly](https://myfly.vercel.app) | Site institucional da My Fly, empresa de automação comercial e gestão para micro e pequenas empresas, com soluções para food service e o ERP próprio FlyERP | Vercel |
-| [Lume Estamparia](https://modelolanding.vercel.app) | Landing page modelo para estamparia (marca fictícia): catálogo em abas, bastidores e orçamento via WhatsApp, sem backend | HTML · CSS · JavaScript · Vercel |
+| [Lume Estamparia](https://modelolanding.vercel.app) | Landing page modelo para estamparia (marca fictícia): catálogo em abas, galeria de bastidores, depoimentos e animações de revelação no scroll. O formulário monta a mensagem do pedido e abre o WhatsApp, sem backend e sem armazenar dados | HTML5 · CSS3 · JavaScript puro (sem framework e sem etapa de build) · Google Fonts (Bebas Neue + PT Sans) · integração com WhatsApp por link · Vercel |
 
 ---
 
@@ -46,10 +46,11 @@ Antes, no **Clube Pirassununga**, criei soluções que rodam em ambiente real, u
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**IA aplicada ao desenvolvimento**
+**IA e agentes de código**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-111827?style=for-the-badge)
 
 **Backend, dados e automação**
 
@@ -70,20 +71,14 @@ Antes, no **Clube Pirassununga**, criei soluções que rodam em ambiente real, u
 
 - Sistemas e automações na My Fly Automação Comercial
 - Automação de processos com n8n
-- IA aplicada ao desenvolvimento, com Claude e Antigravity
+- IA aplicada ao desenvolvimento, com Claude, Antigravity e OpenCode
 - Bacharelado em Ciência da Computação na FATECE (2025 a 2028)
-
----
-
-## 🏅 Reconhecimento
-
-**Menção de Honra Máxima** como monitor do Curso de Extensão *Letramento Digital e Comunicação Aplicada* (FATECE, 2026, 60 horas).
 
 ---
 
 ## 🌍 Idiomas
 
-Português (nativo) · Inglês (C1) · Francês (C1) · Espanhol (B1) · Alemão (aprendendo)
+Português (nativo) · Inglês (C1) · Francês (C1) · Espanhol (B1) 
 
 ---
 
