@@ -1,8 +1,8 @@
-<h1 align="center">Oi, eu sou o Carlos Daniel 👋</h1>
+<h1 align="center">Carlos Daniel</h1>
 
 <p align="center">
   <b>Analista de Sistemas · Automação de Processos · Sistemas Web</b><br>
-  Estudante de Ciência da Computação na FATECE · Pirassununga, SP
+  Ciência da Computação na FATECE · Pirassununga, SP
 </p>
 
 <p align="center">
@@ -12,32 +12,37 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre
 
-Sou Analista de Sistemas na **My Fly Automação Comercial**, onde desenvolvo, mantenho e evoluo sistemas, automatizo rotinas e integro sistemas para reduzir tarefas manuais.
+Analista de Sistemas na **My Fly Automação Comercial**, onde desenvolvo, mantenho e evoluo sistemas, automatizo rotinas e integro plataformas para reduzir tarefas manuais.
 
-Antes, no **Clube Pirassununga**, criei soluções que rodam em ambiente real, usando PostgreSQL, Supabase e ferramentas e agentes de IA como **Claude**, **Antigravity** e **OpenCode**, que uso no dia a dia para acelerar o desenvolvimento. Minha base vem do suporte técnico e da infraestrutura de TI, o que me dá a visão de quem usa o sistema, não só de quem o constrói.
+Anteriormente, no **Clube Pirassununga**, entreguei soluções em ambiente real de produção, com **PostgreSQL** e **Supabase**. Utilizo ferramentas e agentes de IA (**Claude**, **Antigravity** e **OpenCode**) no dia a dia para acelerar o desenvolvimento.
+
+Minha base está no suporte técnico e na infraestrutura de TI, o que me dá a perspectiva de quem usa o sistema, e não apenas de quem o constrói.
 
 ---
 
-## 🛠️ O que já construí
+## Projetos
 
-**Em produção (código privado)**
+### Em produção (código privado)
 
-- **ClubeON CCP**: distribui conteúdos corporativos para TVs, monitores e dispositivos conectados, com sincronização em tempo real, substituindo atualizações manuais.
-- **ClubStrategy** e **Clubingo**: sistemas desenvolvidos para o Clube Pirassununga.
+| Projeto | Descrição |
+|---|---|
+| **ClubeON CCP** | Distribui conteúdos corporativos para TVs, monitores e dispositivos conectados, com sincronização em tempo real, substituindo atualizações manuais. |
+| **ClubStrategy** | Sistema desenvolvido para o Clube Pirassununga. |
+| **Clubingo** | Sistema desenvolvido para o Clube Pirassununga. |
 
-**Projetos públicos**
+### Projetos públicos
 
-| Projeto | O que é | Tecnologias |
+| Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Portfólio](https://portcarlos.vercel.app) | Meu portfólio, com estudos de caso dos projetos | TypeScript · Vercel |
-| [My Fly](https://myfly.vercel.app) | Site institucional da My Fly, empresa de automação comercial e gestão para micro e pequenas empresas, com soluções para food service e o ERP próprio FlyERP | Vercel |
-| [Lume Estamparia](https://modelolanding.vercel.app) | Landing page modelo para estamparia (marca fictícia): catálogo em abas, galeria de bastidores, depoimentos e animações de revelação no scroll. O formulário monta a mensagem do pedido e abre o WhatsApp, sem backend e sem armazenar dados | HTML5 · CSS3 · JavaScript puro (sem framework e sem etapa de build) · Google Fonts (Bebas Neue + PT Sans) · integração com WhatsApp por link · Vercel |
+| [Portfólio](https://portcarlos.vercel.app) | Portfólio pessoal com estudos de caso dos projetos. | TypeScript · Vercel  **HTML5**, **CSS3** e **JavaScript vanilla** |
+| [My Fly](https://myfly.vercel.app) | Site institucional da My Fly, empresa de automação comercial e gestão para micro e pequenas empresas. Apresenta as soluções para food service e o FlyERP (vendas, financeiro, contratos e notas fiscais unificados), com foco em conversão para o WhatsApp. | **React** + **Vite** (build estático, páginas rápidas)<br>**Tailwind CSS** (identidade visual escura consistente)<br>**Framer Motion** (animações de entrada)<br>**lucide-react** (ícones)<br>SEO local (Pirassununga/SP): meta tags e Open Graph<br>CTA com link direto para o WhatsApp<br>Deploy na **Vercel** |
+| [Lume Estamparia](https://modelolanding.vercel.app) | Landing page modelo para estamparia (marca fictícia), com catálogo em abas, galeria de bastidores, depoimentos e formulário de orçamento. Estática e responsiva, sem backend e sem armazenar dados. | **HTML5**, **CSS3** e **JavaScript vanilla**, sem framework e sem etapa de build<br>Catálogo em abas e animações de revelação no scroll em JS puro<br>Formulário estático que monta a mensagem do pedido e abre o WhatsApp via deep link (`wa.me` com texto pré-preenchido e URL-encoded)<br>Seleção de arte opcional (JPG, PNG, PDF ou SVG, até 10 MB) mantida só no navegador, sem upload nem persistência<br>Navegação por âncoras, logo em SVG e metadados (description e viewport)<br>**Google Fonts**: Bebas Neue + PT Sans<br>Deploy estático na **Vercel** |
 
 ---
 
-## 🧰 Tecnologias
+## Stack
 
 **Desenvolvimento web**
 
@@ -46,18 +51,18 @@ Antes, no **Clube Pirassununga**, criei soluções que rodam em ambiente real, u
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**IA e agentes de código**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-111827?style=for-the-badge)
-
 **Backend, dados e automação**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**IA e agentes de código**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-111827?style=for-the-badge)
 
 **Ferramentas**
 
@@ -67,27 +72,32 @@ Antes, no **Clube Pirassununga**, criei soluções que rodam em ambiente real, u
 
 ---
 
-## 🎯 Em foco agora
+## Foco atual
 
-- Sistemas e automações na My Fly Automação Comercial
+- Desenvolvimento de sistemas e automações na My Fly Automação Comercial
 - Automação de processos com n8n
-- IA aplicada ao desenvolvimento, com Claude, Antigravity e OpenCode
-- Bacharelado em Ciência da Computação na FATECE (2025 a 2028)
+- IA aplicada ao desenvolvimento de software
+- Bacharelado em Ciência da Computação na FATECE (2025–2028)
 
 ---
 
-## 🌍 Idiomas
+## Idiomas
 
-Português (nativo) · Inglês (C1) · Francês (C1) · Espanhol (B1) 
+| Idioma | Nível |
+|---|---|
+| Português | Nativo |
+| Inglês | C1 |
+| Francês | C1 |
+| Espanhol | B1 |
 
 ---
 
-## 📫 Vamos conversar
+## Contato
 
-Estou aberto a projetos de sistemas web e automação, e a trocar experiências com outros desenvolvedores.
+Aberto a projetos de sistemas web e automação, e a trocar experiências com outros desenvolvedores.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-alencar-22b950353)
-- 🌐 [Portfólio](https://portcarlos.vercel.app)
+- LinkedIn: [carlos-alencar-22b950353](https://www.linkedin.com/in/carlos-alencar-22b950353)
+- Portfólio: [portcarlos.vercel.app](https://portcarlos.vercel.app)
 
 ---
 
