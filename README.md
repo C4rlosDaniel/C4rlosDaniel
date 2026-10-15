@@ -1,8 +1,8 @@
-<h1 align="center">Carlos Daniel</h1>
+<h1 align="center"> -=-=Carlos Daniel-=-=</h1>
 
 <p align="center">
   <b>Analista de Sistemas · Automação de Processos · Sistemas Web</b><br>
-  Ciência da Computação na FATECE · Pirassununga, SP
+  
 </p>
 
 <p align="center">
